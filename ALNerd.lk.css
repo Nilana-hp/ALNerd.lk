@@ -213,3 +213,15 @@ nav ul li .submenu a:hover{
 	transform: scale(1.05);
 	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
 }
+
+.footer{
+background-color: #f8f9fa;
+  color: #555;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  border-top: 1px solid #ddd;
+max-width: 100%;
+  margin: 0 auto;
+  line-height: 1.6;
+}
